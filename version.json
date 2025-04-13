@@ -1,4 +1,7 @@
 {
-    "version": "1.0.1"
+    "version": "1.0.1",
+    "resources": {
+        "client": "https://example.com/client.lua",
+        "server": "https://example.com/server.lua"
+    }
 }
-
